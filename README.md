@@ -1,1 +1,1 @@
-# Kakao Clone Version2
+# KakaoTalk Design Clone Version2
