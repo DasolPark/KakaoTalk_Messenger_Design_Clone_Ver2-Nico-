@@ -179,12 +179,12 @@
 
 .incoming-message .message__bubble {
   border-bottom-left-radius: 0px;
-  background-image: linear-gradient(to right, #34e89e, #0f3443);
+  background-image: linear-gradient(to right, #ffafbd, #ffc3a0);
 }
 
 .sent-message .message__bubble {
   border-bottom-right-radius: 0px;
-  background-image: linear-gradient(to left, #43c6ac, #191654);
+  background-image: linear-gradient(to left, #ffafbd, #ffc3a0);
 }
 
 @keyframes incomingAnim {
